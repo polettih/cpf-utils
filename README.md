@@ -3,16 +3,12 @@
 
 Este projeto fornece um conjunto de funções para **gerar e validar CPFs** em Python, com base no algoritmo oficial de cálculo dos dígitos verificadores. Ele é ideal para automações, testes, aprendizado ou validação de formulários.
 
----
-
 ## 🚀 Funcionalidades
 
 - **Geração de CPF**: Criação de CPFs válidos, com ou sem formatação.
 - **Validação de CPF**: Verificação da validade de CPFs informados, incluindo suporte a formatos com pontos e traços.
 - **Tratamento de CPFs inválidos ou repetitivos**.
 - **Código modular e reutilizável**, facilitando a integração em outros projetos.
-
----
 
 ## 📦 Como Usar
 
@@ -53,7 +49,6 @@ else:
     print("CPF inválido!")
 ```
 
----
 
 ## 📁 Estrutura do Projeto
 
@@ -67,13 +62,13 @@ cpf-utils/
 └── LICENSE (opcional)
 ```
 
----
+
 
 ## ⚠️ Aviso Legal
 
 Este projeto é destinado exclusivamente para **fins educacionais e de teste**. O uso de CPFs gerados para práticas fraudulentas, golpes ou qualquer atividade ilegal é crime.
 
----
+
 
 ## ✍️ Autor
 
